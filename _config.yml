@@ -56,7 +56,7 @@ authors:
       # email:          wowthemesnet@gmail.com
       # twitter:        https://twitter.com/wowthemesnet
 
-# paginate: 10
+paginate: 10
 
 # Exclude from processing.
 # The following items will not be processed, by default.
