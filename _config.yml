@@ -27,6 +27,8 @@ url: "https://chineseplus.github.io" # the base hostname & protocol for your sit
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+include: ["_pages"]
+
 # Build settings
 theme: minima
 plugins:
@@ -43,7 +45,14 @@ authors:
       name:           Situ Chinese
       # site:           https://www.wowthemes.net
       # avatar:         /assets/images/avatar1.jpg
-      # bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Situ Chinese"
+      # email:          wowthemesnet@gmail.com
+      # twitter:        https://twitter.com/wowthemesnet
+    chinaplus:
+      name:           China Plus
+      site:           https://chinaplus.cri.cn/
+      avatar:         https://chinaplus.cri.cn/etc/static/img/apple-touch-icon.png
+      bio:            "China Plus is CRI's overseas all-in-one English-language media brand, combining such entities as the China Plus app and website, China Plus Radio and China Plus News (Facebook & Twitter). China Plus provides audio, video, photo and print media as part of its extensive product range."
       # email:          wowthemesnet@gmail.com
       # twitter:        https://twitter.com/wowthemesnet
 
