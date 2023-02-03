@@ -31,12 +31,21 @@ url: "https://chineseplus.github.io" # the base hostname & protocol for your sit
 theme: minima
 plugins:
   - jekyll-feed
-  # - jekyll-sitemap
-  # - jekyll-paginate
-  # - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-# markdown: kramdown
-# highlighter: rouge
+markdown: kramdown
+highlighter: rouge
+
+authors:
+    situ:
+      name:           Situ Chinese
+      # site:           https://www.wowthemes.net
+      # avatar:         /assets/images/avatar1.jpg
+      # bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      # email:          wowthemesnet@gmail.com
+      # twitter:        https://twitter.com/wowthemesnet
 
 # paginate: 10
 
