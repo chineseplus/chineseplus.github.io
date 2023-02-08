@@ -14,7 +14,14 @@ Please translate the following phrase into English.
 ![Image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3749ae43b20a4b8184ac3b093d862bb1~tplv-k3u1fbpfcp-zoom-1.image)
 
 **Word Breakdown**  
-小 *(xiǎo) adj.*  small, little心 *(xīn) n.*  heart眼 *(yǎn) n.*  small hole儿 *(r) non-syllabic diminutive suffix*
+
+小 *(xiǎo) adj.*  small, little
+
+心 *(xīn) n.*  heart
+
+眼 *(yǎn) n.*  small hole
+
+儿 *(r) non-syllabic diminutive suffix*
 
 **Quick Answer**
 
