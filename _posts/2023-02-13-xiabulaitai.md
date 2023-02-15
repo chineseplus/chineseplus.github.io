@@ -11,11 +11,23 @@ tags: [ Situ, Chinese, Mandarin, featured ]
 
 ![Image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a4886e4744b24f788bfd3d530b568d2a~tplv-k3u1fbpfcp-zoom-1.image)
 
-**Word Breakdown** 下不来 *(xià bù lái)*  Can't get down from台  *(tái) n.*  stage**Quick Answer**
+**Word Breakdown** 
+
+下不来 *(xià bù lái)*  Can't get down from
+
+台  *(tái) n.*  stage
+
+**Quick Answer**
 
 ![Image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3e0f088f5ac5494b841e95f530127cf8~tplv-k3u1fbpfcp-zoom-1.image)
 
-**Definition & Usage****下不来台 is a colloquial collocation that means someone is being put on the spot, and finds oneself in an awkward situation**. It serves as an adjective, always the adverb "很" and "非常" would be placed before it. 下 is a verb here, that means to go down. 下来 is the direction complement. Its negative form is 下不来. One can't come down from the stage, everyone's eyes are on him, and that would be embarrassing. **Example Sentences**
+**Definition & Usage**
+
+**下不来台 is a colloquial collocation that means someone is being put on the spot, and finds oneself in an awkward situation**. It serves as an adjective, always the adverb "很" and "非常" would be placed before it. 
+
+下 is a verb here, that means to go down. 下来 is the direction complement. Its negative form is 下不来. One can't come down from the stage, everyone's eyes are on him, and that would be embarrassing. 
+
+**Example Sentences**
 
 她提的问题让被采访对象**很下不来台**。
 
